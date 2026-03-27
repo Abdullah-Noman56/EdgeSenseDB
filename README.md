@@ -46,9 +46,9 @@ To run the demonstration and see the adaptive compression in action:
 This repository contains the IEEE formal manuscript detailing the system architecture, mathematical formulations for the adaptive controller, and empirical results. You can find the raw LaTeX file under `Paper/`.
 
 ## 👥 Authors
-* Student i232078
-* Student i232110
-* Student i232012
+* Student Habib Ahmed
+* Student M.Akash Waris
+* Student Abdullah Noman
 
 ## 📝 License
 
